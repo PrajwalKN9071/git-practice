@@ -1,0 +1,8 @@
+resource_group_name     = "rg-terraform-web-sql-db01"
+resource_group_location = "East Asia"
+app_service_plan_name   = "appserviceplan-demo-32121"
+app_service_name        = "terraform-web-0211"
+sql_server_name         = "terraform-sqlserver-32121"
+sql_database_name       = "DemooDB01"
+sql_admin_login         = "user02"
+sql_admin_password      = "user@123"
